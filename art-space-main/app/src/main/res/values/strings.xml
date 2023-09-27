@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">Art Space</string>
+    <string name="coche1">Ferrari</string>
+    <string name="coche1_model">812 Superfast</string>
+    <string name="coche2">McLaren</string>
+    <string name="coche2_model">720S GT3 2019</string>
+    <string name="coche3">Ford</string>
+    <string name="coche3_model">Mustang</string>
+    <string name="coche4">Bugatti</string>
+    <string name="coche4_model">Chiron Profilee</string>
+</resources>
